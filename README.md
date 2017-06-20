@@ -9,4 +9,9 @@ This is the code of a basic rnn.
 Use `pip` to install what you need.
 
 ## How to run
-Just type `puthon basic_rnn.py`.
+
+Just type `puthon basic_rnn.py` in terminal.
+
+## Result
+
+![rnn_result](image/rnn_result.png)
